@@ -1,0 +1,10 @@
+harry/
+harry/cap/
+harry/dumble/
+harry/cap/patch
+harry/cap/puppy
+harry/dumble/sev
+potter/caspian
+potter/father/luke
+potter/father/
+potter/
